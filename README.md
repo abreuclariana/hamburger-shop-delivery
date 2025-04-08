@@ -56,6 +56,7 @@ This project was built using **HTML**, **CSS (Tailwind CSS)**, and **JavaScript*
         cd dev-burguer
 
  3. Open index.html in your browser, or use a live server extension in VS Code.
+    
 
 📝 Customization
 
