@@ -1,6 +1,6 @@
-# 🍔 Dev Burguer
+# 🍔 CL Burguer
 
-Dev Burguer is a simple and responsive burger shop landing page that includes a cart system, modal interaction, and WhatsApp integration for checkout.
+CL Burguer is a simple and responsive burger shop landing page that includes a cart system, modal interaction, and WhatsApp integration for checkout.
 
 This project was built using **HTML**, **CSS (Tailwind CSS)**, and **JavaScript** to simulate an online food ordering experience for a local hamburger restaurant.
 
