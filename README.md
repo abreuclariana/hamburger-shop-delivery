@@ -8,7 +8,7 @@ This project was built using **HTML**, **CSS (Tailwind CSS)**, and **JavaScript*
 
 ## 📸 Preview
 
-![CL Burguer Preview](./preview.png)
+![CL Burguer Preview](./assets/preview.png)
 
 ---
 
